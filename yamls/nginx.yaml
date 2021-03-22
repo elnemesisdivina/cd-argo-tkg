@@ -15,5 +15,5 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: harbor-repo.vmware.com/dockerhub-proxy-cache/library/nginxnginx
+      - image: harbor-repo.vmware.com/dockerhub-proxy-cache/library/nginx
         name: nginx
